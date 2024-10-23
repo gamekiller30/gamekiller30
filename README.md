@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gamekiller30" alt="gamekiller30" /></a> </p>
 
-- 🔭 I’m currently working on **FindmyService**
+ 🔭 I’m currently working on **FindmyService**
 
-- 💬 Ask me about **react, node**
+ 💬 Ask me about **react, node**
 
-- ⚡ Fun fact **The earth needs 1 Year to rotate around the sun. Yeah cool huh.**
+⚡ Fun fact **The earth needs 1 Year to rotate around the sun. Yeah cool huh.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
